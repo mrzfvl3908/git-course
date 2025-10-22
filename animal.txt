@@ -1,4 +1,9 @@
 dog
 cat
+<<<<<<< HEAD
 leon
 monkey
+=======
+monkey
+casco
+>>>>>>> 60538f4c49beb95e42874835922c26e80f18362d
