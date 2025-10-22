@@ -1,0 +1,1 @@
+MySite = https://mrzfvl3908.github.io/git-course/

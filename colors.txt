@@ -1,3 +1,9 @@
 titanium
 black
 metallic
+red
+blue
+yellow
+green
+pink
+purple
