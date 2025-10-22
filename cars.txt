@@ -2,3 +2,5 @@ benz
 bmw
 audi
 kia
+saipa
+mohavi
